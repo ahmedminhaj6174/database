@@ -42,8 +42,6 @@ IMPORTANT Notes:
 
 - While entering user input use ` ` for mysql reserved words. 
 
--the table names, column names, are according to the project phase 1 database.
-
 -Data of every tables can be found in the Data.pdf file.
 
 
