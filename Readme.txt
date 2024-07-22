@@ -1,3 +1,25 @@
+Project Overview:
+I created a database for "Las Palmas Medical Center", as part of a project aimed at implementing a database system to support the hospital's operations. The project involved designing a relational database schema, writing SQL scripts to create and populate the database, and developing a Python program to interact with the database for various queries and data management tasks.
+
+Database Design and Implementation:
+
+  Designed a relational schema consisting of 13 tables, including Physician, Department, Patient, Nurse, Medication, Room, and Appointment.
+  Implemented the schema in MySQL using create_db.sql to define tables, primary keys, foreign keys, and value constraints.
+  Populated the tables with sample data using insert_db.sql.
+
+
+Python Program for Database Interaction:
+
+  Developed a Python program to perform various database operations such as retrieving data, calculating averages, inserting new records, and    deleting existing records.
+  The program connects to the MySQL database using the mysql.connector library.
+
+  Implemented functions to handle specific tasks:
+
+    Retrieve: Fetches all records from a specified table.
+    Average: Calculates the average value of a specified column in a specified table.
+    Insert: Adds new records to specified tables based on user input.
+    Delete: Removes records from specified tables based on user input.
+
 
 *** Please read all the instructions then run the .py file ***
 
